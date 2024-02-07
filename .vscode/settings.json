@@ -1,0 +1,10 @@
+{
+    "editor.tabSize": 4,
+    "editor.wordWrap": "off",
+    "editor.insertSpaces": true,
+    "editor.renderWhitespace": "all",
+    "editor.trimAutoWhitespace": true,
+    "files.insertFinalNewline": true,
+    "editor.formatOnSave": false,
+    "files.trimTrailingWhitespace": true
+}
